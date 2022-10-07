@@ -44,3 +44,5 @@
   - Yes, you can [Open a Bug Report Issue](https://github.com/HideakiAtsuyo/OpenStealer/issues/new?assignees=&labels=Bug&template=bug_report.md&title=)
 - Can I suggest a feature/update ?
   - Yes, you can [Open a Feature Request Issue](https://github.com/HideakiAtsuyo/OpenStealer/issues/new?assignees=&labels=Feature+Request&template=feature_request.md&title=)
+- Can I ask a quesiton ?
+  - Yes, you can [Open a Question Issue](https://github.com/HideakiAtsuyo/OpenStealer/issues/new?assignees=&labels=Question&template=Question.md&title=)
