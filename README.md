@@ -23,7 +23,13 @@
   
 - Discord
   - Tokens
-  - Injection
+  - Injection tracking
+    - Username & Tag Change
+    - Password change
+    - Email change
+    - Token change
+    - Credit card added
+    - Account added
 
 ## Panel Feature
   - Auth
