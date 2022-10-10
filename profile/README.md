@@ -75,13 +75,13 @@
   - It could be done for a private version or something like this if a domain get seized/down.
  
 - Can I report a bug/problem ?
-  - Yes, you can [Open a Bug Report Issue](https://github.com/HideakiAtsuyo/OpenStealer/issues/new?assignees=&labels=Bug&template=bug_report.md&title=)
+  - Yes, you can [Open a Bug Report Issue](https://github.com/OpenStealer/.github/issues/new?assignees=&labels=Bug&template=bug_report.md&title=)
 
 - Can I suggest a feature/update ?
-  - Yes, you can [Open a Feature Request Issue](https://github.com/HideakiAtsuyo/OpenStealer/issues/new?assignees=&labels=Feature+Request&template=feature_request.md&title=)
+  - Yes, you can [Open a Feature Request Issue](https://github.com/OpenStealer/.github/issues/new?assignees=&labels=Feature+Request&template=feature_request.md&title=)
 
 - Can I ask a question ?
-  - Yes, you can [Open a Question Issue](https://github.com/HideakiAtsuyo/OpenStealer/issues/new?assignees=&labels=Question&template=Question.md&title=)
+  - Yes, you can [Open a Question Issue](https://github.com/OpenStealer/.github/issues/new?assignees=&labels=Question&template=Question.md&title=)
   
 - Will a demo version be hosted ?
   - I think it could be done, but the server would be paid with donations only and you would have to spread the stub yourself, the settings would not be editable to avoid anyone to receive the logs they would only show on the panel. If you want to donate for a demo server you can contact me on [Telegram](https://t.me/HideakiAtsuyo)
