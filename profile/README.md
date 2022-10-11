@@ -14,6 +14,10 @@
 
 ## Stealer Features
 
+<details>
+    <summary>Click To See The Stealer Features List
+    </summary>
+
 - Browsers
   - Credentials
   - Cookies
@@ -30,8 +34,14 @@
     - Token change
     - Credit card added
     - Account added
+</details>
 
 ## Panel Feature
+
+<details>
+    <summary>Click To See The Panel Features List
+    </summary>
+    
   - Auth
     - Username & Password ([StrawPoll](https://strawpoll.com/polls/bVg860BvzyY))
     - [OTP](https://en.wikipedia.org/wiki/One-time_password) (REQUIRED :))
@@ -53,9 +63,14 @@
     - Rate Limit
     - Webhook & Telegram info will be there to avoid deletion/report
     - Impossible to spam    
-    
+</details>
+
 ## FAQ
 
+<details>
+    <summary>Click To See The FAQ
+    </summary>
+    
 - Will the duplicates be automatically removed ?
   - Yes.
   
@@ -85,6 +100,7 @@
   
 - Will a demo version be hosted ?
   - I think it could be done, but the server would be paid with donations only and you would have to spread the stub yourself, the settings would not be editable to avoid anyone to receive the logs they would only show on the panel. If you want to donate for a demo server you can contact me on [Telegram](https://t.me/HideakiAtsuyo)
+</details>
 
 #### You want a custom project(website/software/bot(Telegram & Discord)) ? It can be stealers(web based or no), auto-shop, etc..
 - You can contact me on [Telegram](https://t.me/HideakiAtsuyo)
