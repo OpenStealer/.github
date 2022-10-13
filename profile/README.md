@@ -93,7 +93,7 @@
   - No, it will be blocked to 1 user on the account, but you will be able to modify this in the code yourself.
   
 - Will it use its own storage server and why ?
-  - Probably I will have to think about it, because anonfiles etc.. delete your files so you could use a second server made for storage or your actual one. Tell me if it should use its own [storage system](https://github.com/OpenStealer#polls) or a external one.
+  - Probably I will have to think about it, because anonfiles etc.. delete your files so you could use a second server made for storage or your actual one. Tell me if it should use its own [Storage System](https://github.com/OpenStealer#polls) or a external one.
 
 - Will it support multiple-domains ?
   - It could be done for a private version or something like this if a domain get seized/down.
