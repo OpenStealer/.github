@@ -106,7 +106,9 @@
 <details>
     <summary>Click To See The Polls
     </summary>
-    
+
+Polls ending: `1 November at 2 PM`
+
 - [Username & Password](https://strawpoll.com/polls/bVg860BvzyY)
 - [Future potential languages for stubs](https://strawpoll.com/polls/Q0Zp4apxxZM)
 </details>
