@@ -43,7 +43,7 @@
     </summary>
     
   - Auth
-    - Username & Password ([StrawPoll](https://strawpoll.com/polls/bVg860BvzyY))
+    - [Username & Password](https://github.com/OpenStealer#polls)
     - [OTP](https://en.wikipedia.org/wiki/One-time_password) (REQUIRED :))
   - Build
     - Default Settings(set automatically data to autofill when you want to build(still can edit when building))
@@ -75,7 +75,7 @@
   - Yes.
   
 - What will be the MAIN Stub language ?
-  - JS if prices goes lower and C++ if prices goes higher (for other stealers)
+  - JS if prices goes lower and C++ if prices goes higher (for other stealers). [Future potential languages for stubs](https://github.com/OpenStealer#polls)
 
 - Will it have multiple stubs(multiple languages)
   - I will think about it.
@@ -102,5 +102,25 @@
   - I think it could be done, but the server would be paid with donations only and you would have to spread the stub yourself, the settings would not be editable to avoid anyone to receive the logs they would only show on the panel. If you want to donate for a demo server you can contact me on [Telegram](https://t.me/HideakiAtsuyo)
 </details>
 
-#### You want a custom project(website/software/bot(Telegram & Discord)) ? It can be stealers(web based or no), auto-shop, etc..
-- You can contact me on [Telegram](https://t.me/HideakiAtsuyo)
+## Polls
+<details>
+    <summary>Click To See The Polls
+    </summary>
+    
+- [Username & Password](https://strawpoll.com/polls/bVg860BvzyY)
+- [Future potential languages for stubs](https://strawpoll.com/polls/Q0Zp4apxxZM)
+</details>
+
+## Want a custom project ?
+<details>
+    <summary>Not Curious Enough
+    </summary>
+    
+- `AutoShop` accepting chosen payment methods (without using `Sellix`, `sell.app`, `Shoppy` etc..) => Can be done as `Website(including API)` and/or `Bot`
+- `Checkers` => Can be done as `Website(including API)`(can be executed client-side or server-side it depend on you) and/or `Bot` and/or `Software`
+- `Stealers`/`RATs`/`Ransom` => `Panel` can be done as `Website(including API)` or `Bot` or `Software`
+- `Social Network` => Can be done as `Website(including API)` + downloadable `clients`(Discord-like or different)
+- Any other idea ? Don't hesitate !
+     
+- you can contact me on [Telegram](https://t.me/HideakiAtsuyo)
+</details>
