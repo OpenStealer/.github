@@ -71,11 +71,20 @@
     <summary>Click To See The FAQ
     </summary>
     
+- Why will this project take time before being released ?
+  - Actually already have some things to finish
+  - Not sure when I will be able to use my computer again because I'm moving
+  - I want to offer something good enough to avoid paying for shitty pasted stealers but not good enough to be sold everywhere
+  - I have to think on a update frequency since probably no one will contribute to it
+
 - Will the duplicates be automatically removed ?
   - Yes.
   
 - What will be the MAIN Stub language ?
   - JS if prices goes lower and C++ if prices goes higher (for other stealers). [Future potential languages for stubs](https://github.com/OpenStealer#polls)
+
+- Will any custom obfuscator/crypter be "included" ?
+  - Well it's not sure but it could be done after some update, here is a poll for [Stub Obfuscator/Crypter](https://github.com/OpenStealer#polls)
 
 - Will it have multiple stubs(multiple languages)
   - I will think about it.
@@ -84,7 +93,7 @@
   - No, it will be blocked to 1 user on the account, but you will be able to modify this in the code yourself.
   
 - Will it use its own storage server and why ?
-  - Probably I will have to think about it, because anonfiles etc.. delete your files so you could use a second server made for storage or your actual one.
+  - Probably I will have to think about it, because anonfiles etc.. delete your files so you could use a second server made for storage or your actual one. Tell me if it should use its own [storage system](https://github.com/OpenStealer#polls) or a external one.
 
 - Will it support multiple-domains ?
   - It could be done for a private version or something like this if a domain get seized/down.
@@ -111,6 +120,8 @@ Polls ending: `1 November at 2 PM`
 
 - [Username & Password](https://strawpoll.com/polls/bVg860BvzyY)
 - [Future potential languages for stubs](https://strawpoll.com/polls/Q0Zp4apxxZM)
+- [Stub Obfuscator/Crypter](https://strawpoll.com/polls/xVg7d0AkMZr)
+- [Storage System](https://strawpoll.com/polls/jVyGJAoEKZ7)
 </details>
 
 ## Want a custom project ?
