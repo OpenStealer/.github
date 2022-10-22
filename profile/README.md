@@ -137,3 +137,7 @@ Polls ending: `1 November at 2 PM`
      
 - you can contact me on [Telegram](https://t.me/HideakiAtsuyo)
 </details>
+
+## License
+
+OpenStealer distributed under the [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html), see [LICENSE](https://github.com/OpenStealer/.github/blob/main/LICENSE.md) and [NOTICE](https://github.com/OpenStealer/.github/blob/main/NOTICE.md) for more information.
