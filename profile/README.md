@@ -116,7 +116,7 @@
     <summary>Click To See The Polls
     </summary>
 
-Polls ending: `1 November at 2 PM`
+Polls ending: `31 January at 2 PM` Timezone: Paris (GMT+1)
 
 - [Username & Password](https://strawpoll.com/polls/bVg860BvzyY)
 - [Future potential languages for stubs](https://strawpoll.com/polls/Q0Zp4apxxZM)
