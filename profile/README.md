@@ -10,7 +10,7 @@
 
 ## Any Planned Release Date ?
 
-`Nope, be patient.`
+`Nope, be patient.` => Should be around January 2024 to let the users forget this repo but showcases will be added soon ! :)
 
 ## Stealer Features
 
